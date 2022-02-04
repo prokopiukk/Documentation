@@ -1,0 +1,34 @@
+Bug ID:
+  ID number:
+  Name:
+  Reporter:
+  Submit Date:
+
+Bug tracking:
+  Assigned to:
+  Priority:
+  Severity:
+  Reproducibility:
+  Status:
+  Resolution:
+
+Environment:
+  Platform:
+  OS version:
+  Browser:
+
+Bug overview:
+  Summary:
+  URL:
+  Attached files:
+
+Bug details:
+  Description:
+
+Steps to reproduce
+
+  
+  Actual result:
+  Expected result:
+  Additional information:
+
